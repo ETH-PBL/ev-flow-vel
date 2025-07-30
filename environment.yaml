@@ -1,0 +1,10 @@
+name: evflowvel
+channels:
+  - anaconda
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - matplotlib=3.9.1
+  - opencv=4.9.0
+prefix: /home/boylel/miniconda3/envs/evflowvel
